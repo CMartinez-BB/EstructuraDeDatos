@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce60234f-072c-4923-b125-c14186170956" name="Default Changelist" comment="" />
+    <list default="true" id="ce60234f-072c-4923-b125-c14186170956" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/src/ArregloB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/src/Arreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria_evaluacion/src/Pez.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +31,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Estructura" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -108,5 +113,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1148" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601664359525" />
+    <state x="209" y="53" key="new project wizard" timestamp="1603229097304">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864/-1600.0.1600.900@0.0.1536.864" timestamp="1603229097304" />
   </component>
 </project>
