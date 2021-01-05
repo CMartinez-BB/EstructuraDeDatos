@@ -10,6 +10,9 @@ import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
+import javafx.scene.web.WebEngine;
+import javafx.scene.web.WebView;
+import javafx.stage.Stage;
 
 import java.io.IOException;
 
@@ -18,6 +21,8 @@ public class Controller {
     TextField txtUsuario;
     @FXML
     PasswordField txtPassword;
+    //Sitio de registro
+
 
     public void login(ActionEvent event){
         ingrear();
@@ -49,6 +54,8 @@ public class Controller {
             alert.show();
         }
     }
+
+
 
 
 }
